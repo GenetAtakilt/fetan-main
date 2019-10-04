@@ -6,9 +6,12 @@ import android.widget.EditText;
 import androidx.annotation.Nullable;
 
 import com.gebeya.fetan.R;
+import com.gebeya.fetan.data.AppDatabase;
 import com.gebeya.fetan.framework.base.BaseActivity;
 
 public class AddRunActivity extends BaseActivity {
+
+    private AppDatabase db;
 
     EditText distanceEditText;
 
@@ -18,5 +21,11 @@ public class AddRunActivity extends BaseActivity {
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_run);
+
+      db = Room.databaseBuilder(
+              context.this,
+              AppDatabase.class,
+              Const
+      )
     }
 }

@@ -1,56 +1,26 @@
-<vector xmlns:android="http://schemas.android.com/apk/res/android"
-    android:width="48dp"
-    android:height="48dp"
-    android:viewportWidth="1024"
-    android:viewportHeight="1024">
-    <path
-        android:fillAlpha="1"
-        android:fillColor="#ff6100"
-        android:pathData="m512,607.18c20.26,0 36.65,-16.39 36.65,-36.65c0,-27.48 -36.65,-264.34 -36.65,-264.34c0,0 -36.65,236.86 -36.65,264.34c0,20.26 16.39,36.65 36.65,36.65z"
-        android:strokeWidth="8.03834438" />
-    <path
-        android:fillAlpha="1"
-        android:fillColor="#ff6100"
+<vector android:height="48dp" android:viewportHeight="1024"
+    android:viewportWidth="1024" android:width="48dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillAlpha="1" android:fillColor="#ff6100"
+        android:pathData="m512,607.18c20.26,0 36.65,-16.39 36.65,-36.65c0,-27.48 -36.65,-264.34 -36.65,-264.34c0,0 -36.65,236.86 -36.65,264.34c0,20.26 16.39,36.65 36.65,36.65z" android:strokeWidth="8.03834438"/>
+    <path android:fillAlpha="1" android:fillColor="#ff6100"
         android:pathData="M421.8,85.35H602.2v71.94H421.8Z"
-        android:strokeWidth="1.60766876"
-        android:strokeAlpha="1"
-        android:strokeColor="#00000000"
-        android:strokeLineCap="butt"
-        android:strokeLineJoin="bevel" />
-    <path
-        android:fillAlpha="1"
-        android:fillColor="#0185ff"
+        android:strokeAlpha="1" android:strokeColor="#00000000"
+        android:strokeLineCap="butt" android:strokeLineJoin="bevel" android:strokeWidth="1.60766876"/>
+    <path android:fillAlpha="1" android:fillColor="#0185ff"
         android:pathData="m455.93,157.29h112.15v56.59H455.93Z"
-        android:strokeWidth="1.60766876"
-        android:strokeAlpha="1"
-        android:strokeColor="#00000000"
-        android:strokeLineCap="butt"
-        android:strokeLineJoin="bevel" />
-    <path
-        android:fillAlpha="1"
-        android:fillColor="#0185ff"
+        android:strokeAlpha="1" android:strokeColor="#00000000"
+        android:strokeLineCap="butt" android:strokeLineJoin="bevel" android:strokeWidth="1.60766876"/>
+    <path android:fillAlpha="1" android:fillColor="#0185ff"
         android:pathData="m759.46,236.57l79.3,79.3l-40.02,40.02l-79.3,-79.3z"
-        android:strokeWidth="1.60766876"
-        android:strokeAlpha="1"
-        android:strokeColor="#00000000"
-        android:strokeLineCap="butt"
-        android:strokeLineJoin="bevel" />
-    <path
-        android:fillAlpha="1"
-        android:fillColor="#0185ff"
+        android:strokeAlpha="1" android:strokeColor="#00000000"
+        android:strokeLineCap="butt" android:strokeLineJoin="bevel" android:strokeWidth="1.60766876"/>
+    <path android:fillAlpha="1" android:fillColor="#0185ff"
         android:pathData="m185.24,315.87l79.3,-79.3l40.02,40.02l-79.3,79.3z"
-        android:strokeWidth="1.60766876"
-        android:strokeAlpha="1"
-        android:strokeColor="#00000000"
-        android:strokeLineCap="butt"
-        android:strokeLineJoin="bevel" />
-    <path
-        android:fillAlpha="1"
-        android:fillColor="#000000"
+        android:strokeAlpha="1" android:strokeColor="#00000000"
+        android:strokeLineCap="butt" android:strokeLineJoin="bevel" android:strokeWidth="1.60766876"/>
+    <path android:fillAlpha="1" android:fillColor="#000000"
         android:pathData="M511.99,193.19A372.73,372.73 0,0 0,139.27 565.91A372.73,372.73 0,0 0,511.99 938.65A372.73,372.73 0,0 0,884.73 565.91A372.73,372.73 0,0 0,511.99 193.19ZM511.99,242.93A323,323 0,0 1,834.99 565.91A323,323 0,0 1,511.99 888.92A323,323 0,0 1,189.01 565.91A323,323 0,0 1,511.99 242.93Z"
-        android:strokeWidth="1.60766876"
-        android:strokeAlpha="1"
-        android:strokeColor="#00000000"
-        android:strokeLineCap="butt"
-        android:strokeLineJoin="bevel" />
+        android:strokeAlpha="1" android:strokeColor="#00000000"
+        android:strokeLineCap="butt" android:strokeLineJoin="bevel" android:strokeWidth="1.60766876"/>
+>>>>>>> Stashed changes
 </vector>

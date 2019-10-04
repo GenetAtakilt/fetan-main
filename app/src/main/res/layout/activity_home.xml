@@ -24,6 +24,7 @@
         app:srcCompat="@drawable/add_icon"
         app:backgroundTint="@color/blue"
         app:fabSize="normal"
-        android:layout_margin="48dp" />
+        android:layout_margin="48dp"
+        tools:ignore="VectorDrawableCompat" />
 
 </RelativeLayout>
